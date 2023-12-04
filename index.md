@@ -4,4 +4,4 @@ layout: default
 
 ## [**about**](./about)
 
-## [**projects**](./project)
+## [**projects**](./projects)
