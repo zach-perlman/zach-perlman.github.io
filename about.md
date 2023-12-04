@@ -12,4 +12,4 @@ I am currently associated with the <a href="https://lf.gatech.edu/" target="_bla
 
 My plan is to begin a Ph.D. in Fall 2024, so I'm currently applying to schools. Wish me luck!
 
-![image of me](/assets/images/me.jpg)
+![image of me](/assets/images/me.jpg){:height="50%" width="50%"}
