@@ -6,6 +6,6 @@ layout: default
 
 ## Contact
 
-![gmail icon](/assets/images/gmail-icon.png)Email: zachperlman20@gmail.com
+![gmail icon](/assets/images/gmail-icon.png){:height="5%" width="5%"} Email: zachperlman20@gmail.com
 
-![discord icon](/assets/images/discord-icon.png)Discord: doozay
+![discord icon](/assets/images/discord-icon.png){:height="5%" width="5%"} Discord: doozay
