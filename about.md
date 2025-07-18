@@ -6,12 +6,25 @@ layout: default
 
 ## About
 
-Hi, I'm Zach. I'm a Master's student at Georgia Tech studying computer science. Specifically, I specialize in Machine Learning with strong interests in natural language processing, generative A.I., and mechanistic interpretability. What this means is that I am particularly fascinated by Large Language Models and text-to-image models, and one day I hope to understand how they learn, decode how they think, and extract the algorithms they implement. Outside of intellectual curiosity, demystifying the black-box nature of neural networks will allow us to create _safe_, _trustworthy_, and _reliable_ models.
+Hi, I'm Zach. I'm an early-stage researcher interested in interpretability, alignment, and control for AI systems.
 
-I am currently associated with the <a href="https://lf.gatech.edu/" target="_blank">Low Frequency Radio Group</a> conducting a Master's thesis in improving machine learning methods for forecasting space weather. I am also a Graduate Research Assistant at the <a href="https://markolab.org/" target="_blank">MarkoLab</a> working within the domain of computational neuroscience to design and train models on mice activity.
+### How I view the problem
+Whether we like it or not, it's clear that AI will become increasingly prevalent as time goes on. **By default, this is a problem:**
+1. We currently have very little understanding of how these systems work or how to control them.
+    **Worst-case failure mode**: Existential risk from a misaligned superintelligence.
+2. The amount of money and resources needed for frontier AI development implies that the most intelligent AI systems will likely be controlled by a small number of powerful actors / organizations.
+    **Worst-case failure mode**: A dictator or oligarchy establish a permanently entrenched totalitarian regime.
+While I don't think worst-case failure modes are the most likely outcomes, they demonstrate fundamental problems with the naive development of smarter-than-human AI. **By default**, we should expect disaster from technology that is significantly smarter than us, if it doesn't necessarily have the same goals as us.
 
-My plan is to begin a Ph.D. in Fall 2024, so I'm currently applying to schools. Wish me luck!
+### Personal info
+I graduated from Georgia Tech in 2024 with an M.S. in Computer Science / Machine Learning, after completing my B.S. there was well.
+
+I'm originally from Long Island, NY. In my free time, I like to read, engage in progressive politics,
+and watch YouTube.
+
+**Favorite movies**: Interstellar, Whiplash, Inglourious Basterds
+**Favorite bands**: Red Hot Chili Peppers, Paramore, Greta Van Fleet
 
 {:.center}
-![image of me](/assets/images/me.jpg#center){:height="50%" width="50%" style="align: center;"}
+![image of me](/assets/images/profile-pic.jpg#center){:height="50%" width="50%" style="align: center;"}
 
