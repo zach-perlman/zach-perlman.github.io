@@ -13,7 +13,7 @@ Whether we like it or not, it's clear that AI will become increasingly prevalent
 1. We currently have very little understanding of how these systems work or how to control them.\
         **Worst-case failure mode**: Existential risk from a misaligned superintelligence.
 2. The amount of money and resources needed for frontier AI development implies that the most intelligent AI systems will likely be controlled by a small number of powerful actors / organizations.\
-        **Worst-case failure mode**: A dictator or oligarchy establish a permanently entrenched totalitarian regime.\
+        **Worst-case failure mode**: A dictator or oligarchy establish a permanently entrenched totalitarian regime.
 
 While I don't think worst-case failure modes are the most likely outcomes, they demonstrate fundamental problems with the naive development of smarter-than-human AI. **By default**, we should expect disaster from technology that is significantly smarter than us, if it doesn't necessarily have the same goals as us.
 
