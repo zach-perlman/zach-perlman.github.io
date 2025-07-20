@@ -18,7 +18,7 @@ Whether we like it or not, it's clear that AI will become increasingly prevalent
 While I don't think worst-case failure modes are the most likely outcomes, they demonstrate fundamental problems with the naive development of smarter-than-human AI. **By default**, we should expect disaster from technology that is significantly smarter than us, if it doesn't necessarily have the same goals as us.
 
 ### Personal info
-I graduated from Georgia Tech in 2024 with an M.S. in Computer Science / Machine Learning, after completing my B.S. there was well.
+I graduated from Georgia Tech in 2024 with an M.S. in Computer Science / Machine Learning, after completing my B.S. there as well.
 
 I'm originally from Long Island, NY. In my free time, I like to read, engage in progressive politics,
 and watch YouTube.
