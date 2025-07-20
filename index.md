@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## [**about**](./about)
+<u>## [**about**](./about)</u>
 
-## [**projects**](./projects)
+<u>## [**projects**](./projects)</u>
 
-## [**contact**](./contact)
+<u>## [**contact**](./contact)</u>
